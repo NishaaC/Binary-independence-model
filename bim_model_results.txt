@@ -1,0 +1,420 @@
+Query: electric cars under $40k
+Tesla Model S Plaid.txt,1.0
+Ford F-150 Lightning.txt,1.0
+Toyota RAV4 Hybrid.txt,1.0
+BMW iX.txt,1.0
+Mercedes-Benz EQS.txt,1.0
+Honda Accord Hybrid.txt,1.0
+Audi e-tron GT.txt,1.0
+Hyundai Ioniq 6.txt,1.0
+Chevrolet Silverado EV.txt,1.0
+Lexus RX 500h.txt,1.0
+Porsche Taycan Turbo S.txt,1.0
+Kia EV6.txt,1.0
+Volvo XC90 Recharge.txt,1.0
+Rivian R1T.txt,1.0
+Nissan Ariya.txt,1.0
+Jeep Grand Cherokee 4xe.txt,1.0
+Ford Mustang Mach-E GT.txt,1.0
+Subaru Outback Wilderness.txt,0.0
+Toyota Tacoma.txt,0.0
+Genesis GV80.txt,0.0
+
+Query: turbocharged SUVs 2024
+Lexus RX 500h.txt,1.0
+Volvo XC90 Recharge.txt,1.0
+Subaru Outback Wilderness.txt,1.0
+Genesis GV80.txt,1.0
+Jeep Grand Cherokee 4xe.txt,1.0
+Tesla Model S Plaid.txt,0.6643250930773287
+Ford F-150 Lightning.txt,0.6643250930773287
+Toyota RAV4 Hybrid.txt,0.6643250930773287
+BMW iX.txt,0.6643250930773287
+Mercedes-Benz EQS.txt,0.6643250930773287
+Honda Accord Hybrid.txt,0.6643250930773287
+Audi e-tron GT.txt,0.6643250930773287
+Hyundai Ioniq 6.txt,0.6643250930773287
+Chevrolet Silverado EV.txt,0.6643250930773287
+Porsche Taycan Turbo S.txt,0.6643250930773287
+Kia EV6.txt,0.6643250930773287
+Rivian R1T.txt,0.6643250930773287
+Nissan Ariya.txt,0.6643250930773287
+Toyota Tacoma.txt,0.6643250930773287
+Ford Mustang Mach-E GT.txt,0.0
+
+Query: cars with adaptive cruise control
+Tesla Model S Plaid.txt,1.0
+Ford F-150 Lightning.txt,1.0
+BMW iX.txt,1.0
+Hyundai Ioniq 6.txt,1.0
+Kia EV6.txt,1.0
+Volvo XC90 Recharge.txt,1.0
+Nissan Ariya.txt,1.0
+Jeep Grand Cherokee 4xe.txt,1.0
+Audi e-tron GT.txt,0.6969301701925222
+Chevrolet Silverado EV.txt,0.6515349149037389
+Mercedes-Benz EQS.txt,0.3484650850962611
+Toyota RAV4 Hybrid.txt,0.0
+Honda Accord Hybrid.txt,0.0
+Lexus RX 500h.txt,0.0
+Porsche Taycan Turbo S.txt,0.0
+Subaru Outback Wilderness.txt,0.0
+Rivian R1T.txt,0.0
+Toyota Tacoma.txt,0.0
+Genesis GV80.txt,0.0
+Ford Mustang Mach-E GT.txt,0.0
+
+Query: top 10 hybrid sedans
+Toyota RAV4 Hybrid.txt,1.0
+Lexus RX 500h.txt,1.0
+Honda Accord Hybrid.txt,0.8121440923378771
+Volvo XC90 Recharge.txt,0.8121440923378771
+Tesla Model S Plaid.txt,0.6014239400298903
+Ford F-150 Lightning.txt,0.6014239400298903
+BMW iX.txt,0.6014239400298903
+Hyundai Ioniq 6.txt,0.6014239400298903
+Porsche Taycan Turbo S.txt,0.6014239400298903
+Kia EV6.txt,0.6014239400298903
+Rivian R1T.txt,0.6014239400298903
+Nissan Ariya.txt,0.6014239400298903
+Genesis GV80.txt,0.6014239400298903
+Audi e-tron GT.txt,0.4135680323677672
+Subaru Outback Wilderness.txt,0.4135680323677672
+Toyota Tacoma.txt,0.4135680323677672
+Jeep Grand Cherokee 4xe.txt,0.39857605997010975
+Mercedes-Benz EQS.txt,0.3695701895489443
+Chevrolet Silverado EV.txt,0.18785590766212307
+Ford Mustang Mach-E GT.txt,0.0
+
+Query: most fuel-efficient SUVs
+Ford F-150 Lightning.txt,1.0
+Hyundai Ioniq 6.txt,1.0
+Kia EV6.txt,1.0
+Tesla Model S Plaid.txt,0.7093896040170309
+Toyota RAV4 Hybrid.txt,0.7093896040170309
+BMW iX.txt,0.7093896040170309
+Mercedes-Benz EQS.txt,0.7093896040170309
+Honda Accord Hybrid.txt,0.7093896040170309
+Audi e-tron GT.txt,0.7093896040170309
+Chevrolet Silverado EV.txt,0.7093896040170309
+Lexus RX 500h.txt,0.7093896040170309
+Porsche Taycan Turbo S.txt,0.7093896040170309
+Volvo XC90 Recharge.txt,0.7093896040170309
+Subaru Outback Wilderness.txt,0.7093896040170309
+Rivian R1T.txt,0.7093896040170309
+Nissan Ariya.txt,0.7093896040170309
+Toyota Tacoma.txt,0.7093896040170309
+Genesis GV80.txt,0.7093896040170309
+Jeep Grand Cherokee 4xe.txt,0.7093896040170309
+Ford Mustang Mach-E GT.txt,0.0
+
+Query: luxury interiors in sedans
+Tesla Model S Plaid.txt,1.0
+BMW iX.txt,1.0
+Porsche Taycan Turbo S.txt,1.0
+Volvo XC90 Recharge.txt,1.0
+Genesis GV80.txt,1.0
+Lexus RX 500h.txt,0.6644527552438774
+Mercedes-Benz EQS.txt,0.5079587530595031
+Ford F-150 Lightning.txt,0.33554724475612263
+Toyota RAV4 Hybrid.txt,0.33554724475612263
+Honda Accord Hybrid.txt,0.33554724475612263
+Audi e-tron GT.txt,0.33554724475612263
+Hyundai Ioniq 6.txt,0.33554724475612263
+Chevrolet Silverado EV.txt,0.33554724475612263
+Kia EV6.txt,0.33554724475612263
+Rivian R1T.txt,0.33554724475612263
+Jeep Grand Cherokee 4xe.txt,0.33554724475612263
+Ford Mustang Mach-E GT.txt,0.33554724475612263
+Subaru Outback Wilderness.txt,0.0
+Nissan Ariya.txt,0.0
+Toyota Tacoma.txt,0.0
+
+Query: performance cars with V6 engines
+Tesla Model S Plaid.txt,1.0
+BMW iX.txt,1.0
+Mercedes-Benz EQS.txt,1.0
+Honda Accord Hybrid.txt,1.0
+Audi e-tron GT.txt,1.0
+Hyundai Ioniq 6.txt,1.0
+Chevrolet Silverado EV.txt,1.0
+Lexus RX 500h.txt,1.0
+Porsche Taycan Turbo S.txt,1.0
+Kia EV6.txt,1.0
+Volvo XC90 Recharge.txt,1.0
+Rivian R1T.txt,1.0
+Nissan Ariya.txt,1.0
+Ford Mustang Mach-E GT.txt,1.0
+Ford F-150 Lightning.txt,0.7236995429421271
+Toyota RAV4 Hybrid.txt,0.7236995429421271
+Subaru Outback Wilderness.txt,0.7236995429421271
+Jeep Grand Cherokee 4xe.txt,0.7236995429421271
+Genesis GV80.txt,0.27630045705787276
+Toyota Tacoma.txt,0.0
+
+Query: advanced safety features in 2024 cars
+Ford F-150 Lightning.txt,1.0
+Toyota RAV4 Hybrid.txt,1.0
+BMW iX.txt,1.0
+Audi e-tron GT.txt,1.0
+Hyundai Ioniq 6.txt,1.0
+Chevrolet Silverado EV.txt,1.0
+Kia EV6.txt,1.0
+Rivian R1T.txt,1.0
+Genesis GV80.txt,1.0
+Jeep Grand Cherokee 4xe.txt,1.0
+Ford Mustang Mach-E GT.txt,1.0
+Tesla Model S Plaid.txt,0.9584835214759333
+Mercedes-Benz EQS.txt,0.9584835214759333
+Honda Accord Hybrid.txt,0.9584835214759333
+Porsche Taycan Turbo S.txt,0.9584835214759333
+Volvo XC90 Recharge.txt,0.9584835214759333
+Lexus RX 500h.txt,0.7424842001860443
+Nissan Ariya.txt,0.7424842001860443
+Toyota Tacoma.txt,0.7009677216619777
+Subaru Outback Wilderness.txt,0.0
+
+Query: eco-friendly hatchbacks
+
+Query: automatic transmission in affordable models
+Hyundai Ioniq 6.txt,1.0
+Toyota RAV4 Hybrid.txt,0.7629216861721146
+Subaru Outback Wilderness.txt,0.47234962226682947
+Tesla Model S Plaid.txt,0.2905720639052853
+Ford F-150 Lightning.txt,0.2905720639052853
+BMW iX.txt,0.2905720639052853
+Mercedes-Benz EQS.txt,0.2905720639052853
+Honda Accord Hybrid.txt,0.2905720639052853
+Audi e-tron GT.txt,0.2905720639052853
+Chevrolet Silverado EV.txt,0.2905720639052853
+Porsche Taycan Turbo S.txt,0.2905720639052853
+Kia EV6.txt,0.2905720639052853
+Volvo XC90 Recharge.txt,0.2905720639052853
+Rivian R1T.txt,0.2905720639052853
+Genesis GV80.txt,0.2905720639052853
+Jeep Grand Cherokee 4xe.txt,0.2905720639052853
+Ford Mustang Mach-E GT.txt,0.2905720639052853
+Lexus RX 500h.txt,0.0
+Nissan Ariya.txt,0.0
+Toyota Tacoma.txt,0.0
+
+Query: electric car charging speed comparison
+Tesla Model S Plaid.txt,1.0
+Porsche Taycan Turbo S.txt,1.0
+Audi e-tron GT.txt,0.9408597506121589
+Hyundai Ioniq 6.txt,0.8797849942009389
+Ford F-150 Lightning.txt,0.6450825670527174
+Toyota RAV4 Hybrid.txt,0.6450825670527174
+BMW iX.txt,0.6450825670527174
+Mercedes-Benz EQS.txt,0.6450825670527174
+Chevrolet Silverado EV.txt,0.6450825670527174
+Lexus RX 500h.txt,0.6450825670527174
+Volvo XC90 Recharge.txt,0.6450825670527174
+Rivian R1T.txt,0.6450825670527174
+Nissan Ariya.txt,0.6450825670527174
+Jeep Grand Cherokee 4xe.txt,0.6450825670527174
+Honda Accord Hybrid.txt,0.5840078106414973
+Kia EV6.txt,0.5840078106414973
+Ford Mustang Mach-E GT.txt,0.5840078106414973
+Subaru Outback Wilderness.txt,0.0
+Toyota Tacoma.txt,0.0
+Genesis GV80.txt,0.0
+
+Query: mid-size SUVs with third-row seating
+Tesla Model S Plaid.txt,1.0
+Ford F-150 Lightning.txt,0.7504705602171183
+Toyota RAV4 Hybrid.txt,0.7504705602171183
+BMW iX.txt,0.7504705602171183
+Mercedes-Benz EQS.txt,0.7504705602171183
+Honda Accord Hybrid.txt,0.7504705602171183
+Audi e-tron GT.txt,0.7504705602171183
+Hyundai Ioniq 6.txt,0.7504705602171183
+Chevrolet Silverado EV.txt,0.7504705602171183
+Lexus RX 500h.txt,0.7504705602171183
+Porsche Taycan Turbo S.txt,0.7504705602171183
+Kia EV6.txt,0.7504705602171183
+Volvo XC90 Recharge.txt,0.7504705602171183
+Subaru Outback Wilderness.txt,0.7504705602171183
+Rivian R1T.txt,0.7504705602171183
+Nissan Ariya.txt,0.7504705602171183
+Toyota Tacoma.txt,0.7504705602171183
+Genesis GV80.txt,0.7504705602171183
+Jeep Grand Cherokee 4xe.txt,0.7504705602171183
+Ford Mustang Mach-E GT.txt,0.0
+
+Query: compact cars with premium tech features
+Tesla Model S Plaid.txt,1.0
+Ford F-150 Lightning.txt,1.0
+Toyota RAV4 Hybrid.txt,1.0
+BMW iX.txt,1.0
+Mercedes-Benz EQS.txt,1.0
+Honda Accord Hybrid.txt,1.0
+Chevrolet Silverado EV.txt,1.0
+Lexus RX 500h.txt,1.0
+Toyota Tacoma.txt,1.0
+Audi e-tron GT.txt,0.8375873039226286
+Porsche Taycan Turbo S.txt,0.8375873039226286
+Volvo XC90 Recharge.txt,0.8375873039226286
+Nissan Ariya.txt,0.8375873039226286
+Genesis GV80.txt,0.8375873039226286
+Ford Mustang Mach-E GT.txt,0.8375873039226286
+Hyundai Ioniq 6.txt,0.16241269607737152
+Kia EV6.txt,0.16241269607737152
+Subaru Outback Wilderness.txt,0.14810046882165956
+Rivian R1T.txt,0.0
+Jeep Grand Cherokee 4xe.txt,0.0
+
+Query: hybrid vehicles with top fuel economy
+Lexus RX 500h.txt,1.0
+Toyota RAV4 Hybrid.txt,0.7184397680502216
+Honda Accord Hybrid.txt,0.5814224535252221
+Volvo XC90 Recharge.txt,0.5814224535252221
+Jeep Grand Cherokee 4xe.txt,0.5814224535252221
+Hyundai Ioniq 6.txt,0.4185775464747779
+Tesla Model S Plaid.txt,0.13701731452499946
+Ford F-150 Lightning.txt,0.13701731452499946
+BMW iX.txt,0.13701731452499946
+Mercedes-Benz EQS.txt,0.13701731452499946
+Chevrolet Silverado EV.txt,0.13701731452499946
+Porsche Taycan Turbo S.txt,0.13701731452499946
+Kia EV6.txt,0.13701731452499946
+Rivian R1T.txt,0.13701731452499946
+Nissan Ariya.txt,0.13701731452499946
+Genesis GV80.txt,0.13701731452499946
+Audi e-tron GT.txt,0.0
+Subaru Outback Wilderness.txt,0.0
+Toyota Tacoma.txt,0.0
+Ford Mustang Mach-E GT.txt,0.0
+
+Query: sports cars under $60k
+Audi e-tron GT.txt,1.0
+Porsche Taycan Turbo S.txt,1.0
+Tesla Model S Plaid.txt,0.0
+Ford F-150 Lightning.txt,0.0
+Toyota RAV4 Hybrid.txt,0.0
+BMW iX.txt,0.0
+Mercedes-Benz EQS.txt,0.0
+Honda Accord Hybrid.txt,0.0
+Hyundai Ioniq 6.txt,0.0
+Chevrolet Silverado EV.txt,0.0
+Lexus RX 500h.txt,0.0
+Kia EV6.txt,0.0
+Volvo XC90 Recharge.txt,0.0
+Subaru Outback Wilderness.txt,0.0
+Rivian R1T.txt,0.0
+Nissan Ariya.txt,0.0
+Toyota Tacoma.txt,0.0
+Genesis GV80.txt,0.0
+Jeep Grand Cherokee 4xe.txt,0.0
+Ford Mustang Mach-E GT.txt,0.0
+
+Query: hands-free driving capabilities in 2024
+Ford F-150 Lightning.txt,1.0
+Toyota RAV4 Hybrid.txt,1.0
+BMW iX.txt,1.0
+Honda Accord Hybrid.txt,1.0
+Audi e-tron GT.txt,1.0
+Chevrolet Silverado EV.txt,1.0
+Porsche Taycan Turbo S.txt,1.0
+Kia EV6.txt,1.0
+Volvo XC90 Recharge.txt,1.0
+Rivian R1T.txt,1.0
+Genesis GV80.txt,1.0
+Ford Mustang Mach-E GT.txt,1.0
+Tesla Model S Plaid.txt,0.9536800661890743
+Hyundai Ioniq 6.txt,0.9536800661890743
+Nissan Ariya.txt,0.768564276790436
+Mercedes-Benz EQS.txt,0.2777556570204896
+Jeep Grand Cherokee 4xe.txt,0.2777556570204896
+Lexus RX 500h.txt,0.04631993381092559
+Subaru Outback Wilderness.txt,0.04631993381092559
+Toyota Tacoma.txt,0.0
+
+Query: cars with the best resale value
+Tesla Model S Plaid.txt,1.0
+Ford F-150 Lightning.txt,1.0
+Toyota RAV4 Hybrid.txt,1.0
+BMW iX.txt,1.0
+Mercedes-Benz EQS.txt,1.0
+Audi e-tron GT.txt,1.0
+Hyundai Ioniq 6.txt,1.0
+Chevrolet Silverado EV.txt,1.0
+Lexus RX 500h.txt,1.0
+Porsche Taycan Turbo S.txt,1.0
+Kia EV6.txt,1.0
+Volvo XC90 Recharge.txt,1.0
+Subaru Outback Wilderness.txt,1.0
+Rivian R1T.txt,1.0
+Nissan Ariya.txt,1.0
+Genesis GV80.txt,1.0
+Jeep Grand Cherokee 4xe.txt,1.0
+Ford Mustang Mach-E GT.txt,1.0
+Honda Accord Hybrid.txt,0.6795034782264222
+Toyota Tacoma.txt,0.0
+
+Query: all-wheel drive sedans
+Toyota RAV4 Hybrid.txt,1.0
+BMW iX.txt,1.0
+Audi e-tron GT.txt,1.0
+Lexus RX 500h.txt,1.0
+Genesis GV80.txt,1.0
+Jeep Grand Cherokee 4xe.txt,1.0
+Tesla Model S Plaid.txt,0.5158005701255838
+Ford F-150 Lightning.txt,0.5158005701255838
+Honda Accord Hybrid.txt,0.5158005701255838
+Hyundai Ioniq 6.txt,0.5158005701255838
+Chevrolet Silverado EV.txt,0.5158005701255838
+Porsche Taycan Turbo S.txt,0.5158005701255838
+Kia EV6.txt,0.5158005701255838
+Volvo XC90 Recharge.txt,0.5158005701255838
+Subaru Outback Wilderness.txt,0.5158005701255838
+Rivian R1T.txt,0.5158005701255838
+Nissan Ariya.txt,0.5158005701255838
+Toyota Tacoma.txt,0.5158005701255838
+Ford Mustang Mach-E GT.txt,0.5158005701255838
+Mercedes-Benz EQS.txt,0.0
+
+Query: electric SUVs with the longest range
+Toyota RAV4 Hybrid.txt,1.0
+Honda Accord Hybrid.txt,1.0
+Lexus RX 500h.txt,1.0
+Tesla Model S Plaid.txt,0.6287237858967408
+Ford F-150 Lightning.txt,0.6287237858967408
+BMW iX.txt,0.6287237858967408
+Mercedes-Benz EQS.txt,0.6287237858967408
+Audi e-tron GT.txt,0.6287237858967408
+Hyundai Ioniq 6.txt,0.6287237858967408
+Chevrolet Silverado EV.txt,0.6287237858967408
+Porsche Taycan Turbo S.txt,0.6287237858967408
+Kia EV6.txt,0.6287237858967408
+Volvo XC90 Recharge.txt,0.6287237858967408
+Rivian R1T.txt,0.6287237858967408
+Nissan Ariya.txt,0.6287237858967408
+Jeep Grand Cherokee 4xe.txt,0.6287237858967408
+Ford Mustang Mach-E GT.txt,0.12436001492222307
+Subaru Outback Wilderness.txt,0.0
+Toyota Tacoma.txt,0.0
+Genesis GV80.txt,0.0
+
+Query: top-rated family vehicles in 2024
+Toyota RAV4 Hybrid.txt,1.0
+Hyundai Ioniq 6.txt,0.6336898201616649
+Tesla Model S Plaid.txt,0.18413255892014402
+Ford F-150 Lightning.txt,0.18413255892014402
+BMW iX.txt,0.18413255892014402
+Mercedes-Benz EQS.txt,0.18413255892014402
+Honda Accord Hybrid.txt,0.18413255892014402
+Audi e-tron GT.txt,0.18413255892014402
+Chevrolet Silverado EV.txt,0.18413255892014402
+Porsche Taycan Turbo S.txt,0.18413255892014402
+Kia EV6.txt,0.18413255892014402
+Volvo XC90 Recharge.txt,0.18413255892014402
+Rivian R1T.txt,0.18413255892014402
+Genesis GV80.txt,0.18413255892014402
+Jeep Grand Cherokee 4xe.txt,0.18413255892014402
+Ford Mustang Mach-E GT.txt,0.18413255892014402
+Lexus RX 500h.txt,0.0
+Subaru Outback Wilderness.txt,0.0
+Nissan Ariya.txt,0.0
+Toyota Tacoma.txt,0.0
+
